@@ -4,6 +4,9 @@ Attendance Tracking System is a system where admins/managers can track the atten
 while the employers can check-in / check-out and request leave from just a click of a button.
 The Admin is responsible for creating / deleting/ editing employer account and departments, creating holidays and weekends date, handle leave requests and check reports.
 
+## UI/Ux design 
+https://www.behance.net/gallery/151583483/Attendance-management-dashboard/modules/855746001
+by eng/jehad-Elnozahy 
 ## About
 The system uses the core features a company would want to use from software like Attendance Tracking System. Included features are:
 * Signup / login.
